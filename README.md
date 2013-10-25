@@ -1,5 +1,5 @@
-jquery-challenge-1
-==================
+MRM Cupcake Challenge
+=====================
 
 JQuery + CSS3 Animations, front-end practice
 
